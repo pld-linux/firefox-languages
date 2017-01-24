@@ -195,7 +195,7 @@ Source87:	http://releases.mozilla.org/pub/firefox/releases/%{version}/linux-i686
 Source88:	http://releases.mozilla.org/pub/firefox/releases/%{version}/linux-i686/xpi/zh-CN.xpi
 # Source88-md5:	8df492f74b28372aa589c26c217840ec
 Source89:	http://releases.mozilla.org/pub/firefox/releases/%{version}/linux-i686/xpi/zh-TW.xpi
-# Source99-md5:	7171470273eb3058dd9df066314036c8
+# Source89-md5:	7171470273eb3058dd9df066314036c8
 URL:		http://www.mozilla.org/
 BuildRequires:	sed >= 4.0
 BuildRequires:	unzip
