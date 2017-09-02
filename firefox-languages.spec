@@ -1,3 +1,4 @@
+# PACKAGE MERGED INTO firefox.spec
 # TODO:
 #   - do something with *.rdf file, there if file conflict with other lang packages
 # UPDATING:
@@ -13,7 +14,7 @@ Summary:	Language packs for Firefox
 Summary(pl.UTF-8):	Pakiety językowe dla Firefoksa
 Name:		firefox-languages
 Version:	55.0.2
-Release:	1
+Release:	1.1
 License:	MPL v2.0
 Group:		I18n
 Source0:	http://releases.mozilla.org/pub/firefox/releases/%{version}/linux-i686/xpi/ach.xpi
